@@ -1,0 +1,8 @@
+{
+  "api_key": "TU_API_KEY_AQUI",
+  "voice_id": "TU_VOICE_ID_AQUI",
+  "video_base": "assets/fondo_playa.mp4",
+  "texto": "Domina la máquina con el Gorila IA System.",
+  "titulo": "GORILA IA SYSTEM",
+  "salida": "gorila_promocional.mp4"
+}
